@@ -1,0 +1,73 @@
+body {
+  background-color: #ECECEC;
+  color: #797979;
+}
+.header {
+  background-color: #E0E0E0;
+  padding-bottom: 40px;
+}
+.heading {
+  padding-bottom: 3rem;
+  font-weight: 200;
+  font-size: 40px;
+  color: #000;
+}
+.section {
+  padding-top: 4rem;
+}
+.social-buttons {
+  padding-left: 10px;
+}
+a {
+  font-weight: 800;
+  color: #666;
+}
+.sam-labs {
+  color: #FC666D;
+}
+.sketchkey {
+  color: #3ABADE;
+}
+.mobilecaddy {
+  color: #49AD6C;
+}
+.github-button> a:hover {
+  color: #555;
+  text-decoration: none;
+}
+.linkedin-button> a:hover {
+  color: #555;
+  text-decoration: none;
+}
+.apple-button> a:hover {
+  color: #555;
+  text-decoration: none;
+}
+.medium-button> a:hover {
+  color: #555;
+  text-decoration: none;
+}
+.github-button {
+  font-size: 10px;
+}
+.github-button> a {
+  color: #333333;
+}
+.linkedin-button {
+  font-size: 10px;
+}
+.linkedin-button> a {
+  color: #3893c4;
+}
+.apple-button {
+  font-size: 10px;
+}
+.apple-button> a {
+  color: #AAA;
+}
+.medium-button> a {
+  color: #36A172;
+}
+.medium-button {
+  font-size: 10px;
+}
